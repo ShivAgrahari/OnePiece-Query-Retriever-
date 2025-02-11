@@ -9,7 +9,7 @@ This project utilizes the Roberta-base model as its base Document Reader to answ
 To get started with using this tool, you might want to clone or download the repository.
 
 ```bash
-git clone https://github.com/Subodh7300/OnePiece-Question-Answering
+git clone [https://github.com/ShivAgrahari/OnePiece-Query-Retriever-](https://github.com/ShivAgrahari/OnePiece-Query-Retriever-)
 cd OnePiece-Question-Answering
 ```
 
