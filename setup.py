@@ -22,8 +22,8 @@ def get_packages(file_path: str) -> List[str]:
 setup(
     name='onepieceqna',
     version='0.0.1',
-    author='Subodh',
-    author_email='s.subodh7976@gmail.com',
+    author='Shiv',
+    author_email='shivprakashagrahari1024@gmail.com',
     packages=find_packages(),
     install_requires=get_packages('requirements.txt')
 )
